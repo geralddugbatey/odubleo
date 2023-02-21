@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/odubleo/static/css/main.67fe97b1.css",
-    "main.js": "/odubleo/static/js/main.4483a615.js",
+    "main.js": "/odubleo/static/js/main.86e4f383.js",
     "static/js/787.9d9e2b15.chunk.js": "/odubleo/static/js/787.9d9e2b15.chunk.js",
     "index.html": "/odubleo/index.html",
     "main.67fe97b1.css.map": "/odubleo/static/css/main.67fe97b1.css.map",
-    "main.4483a615.js.map": "/odubleo/static/js/main.4483a615.js.map",
+    "main.86e4f383.js.map": "/odubleo/static/js/main.86e4f383.js.map",
     "787.9d9e2b15.chunk.js.map": "/odubleo/static/js/787.9d9e2b15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67fe97b1.css",
-    "static/js/main.4483a615.js"
+    "static/js/main.86e4f383.js"
   ]
 }
